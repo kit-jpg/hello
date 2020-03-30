@@ -1,2 +1,3 @@
 hello!
-how are you today? it's a nice weather,isn't it?
+it's a nice weather,isn'it?
+i wonder if i can take you out of this black screen...
